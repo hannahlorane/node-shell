@@ -1,0 +1,24 @@
+{
+  "name": "bash",
+  "version": "1.0.0",
+  "description": "\"we write our own node shell, sort of\"",
+  "main": "bash.js",
+  "dependencies": {
+    "request": "^2.74.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ".git"
+  },
+  "keywords": [
+    "bash",
+    "shell",
+    "commands"
+  ],
+  "author": "Galen C and Hannah K",
+  "license": "ISC"
+}
